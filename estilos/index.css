@@ -32,7 +32,6 @@ html{
     background-color: #ffff;
     justify-content: center;
     text-align: center;
-    height: 100%;
 }
 .info-text{
     font-family: 'Teko', sans-serif;
@@ -344,12 +343,6 @@ html{
     .slider{
         height:30px;
     }
-    #personal-info{
-        background-color: #ffff;
-        justify-content: center;
-        text-align: center;
-        height: 100%;
-    }
     .container-descp-progettare{
         background-color: rgb(27, 27, 27);
         border-radius: 25px 25px 25px 25px;
@@ -385,12 +378,6 @@ html{
     .slider{
         height:30px;
     }
-    #personal-info{
-        background-color: #ffff;
-        justify-content: center;
-        text-align: center;
-        height: 100%;
-    }
     .container-descp-progettare{
         background-color: rgb(27, 27, 27);
         border-radius: 25px 25px 25px 25px;
@@ -419,12 +406,6 @@ html{
     }
     .slider{
         height:40px;
-    }
-    #personal-info{
-        background-color: #ffff;
-        justify-content: center;
-        text-align: center;
-        height: 100%;
     }
     .container-descp-progettare{
         background-color: rgb(27, 27, 27);
@@ -461,12 +442,6 @@ html{
     }
     .slider-wrapper{
         font-size: 12px;
-    }
-    #personal-info{
-        background-color: #ffff;
-        justify-content: center;
-        text-align: center;
-        height: 100%;
     }
     .container-descp-progettare{
         background-color: rgb(27, 27, 27);
