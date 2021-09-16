@@ -35,6 +35,8 @@ html{
 }
 .info-text{
     font-family: 'Teko', sans-serif;
+    margin-right: 15px;
+    margin-left: 15px;
     line-height: 60px;
     text-align: center;
     font-size: 25px;
