@@ -200,6 +200,13 @@ html{
     width: 70%;
     border: 1px solid yellow;
 }
+.progettare-tittle p a{
+    text-decoration: none;
+    color: yellow;
+}
+.progettare-tittle p a:hover{
+    color: cyan;
+}
 .progettare-boton{
     padding-bottom: 25px;
     padding-top: 25px;
